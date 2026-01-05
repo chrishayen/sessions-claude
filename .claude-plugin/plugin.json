@@ -1,0 +1,12 @@
+{
+  "name": "sessions",
+  "version": "0.1.0",
+  "description": "Sessions plugin for Claude Code",
+  "author": {
+    "name": "Chris Hayen",
+    "email": "chris@shotgun.dev"
+  },
+  "homepage": "https://sessions.shotgun.dev",
+  "repository": "https://github.com/chrishayen/sessions-claude",
+  "keywords": ["mcp", "profile", "improvements", "coding"]
+}
