@@ -5,7 +5,8 @@ Connect Claude Code to [Sessions](https://sessions.shotgun.dev) - record improve
 ## Installation
 
 ```bash
-/plugin install chrishayen/sessions-claude
+/plugin marketplace add chrishayen/sessions-claude
+/plugin install sessions@sessions-claude
 ```
 
 ## Usage
