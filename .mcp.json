@@ -2,7 +2,7 @@
   "mcpServers": {
     "sessions": {
       "type": "http",
-      "url": "https://sessions.shotgun.dev/mcp"
+      "url": "http://localhost:8080/mcp"
     }
   }
 }
